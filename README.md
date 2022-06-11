@@ -1,4 +1,9 @@
-## Olá!😊
+### Olá! Eu sou o Caio Silva
+
+- 🔭 Formado em Análise e Desenvolvimento de Sistemas 🚀
+- 🌱 Desenvolvedor Python, com ênfase em back-end
+- 📫 Contate-me no email: caio_ceac23@hotmail.com
+
 <div align="center">
   <a href="https://github.com/caiosilva23">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioSilva23&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
