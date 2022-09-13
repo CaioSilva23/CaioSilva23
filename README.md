@@ -3,12 +3,13 @@
 - 🌱 Desenvolvedor Python, com ênfase em back-end
 - 📫 Contate-me no email: caio_ceac23@hotmail.com
 
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=caiosilva23&show_icons=true&theme=github_dark&line_height=20">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilva23&theme=github_dark&layout=default&count_private=true&langs_count=6">
+</p>
 <div align="center">
-  <a href="https://github.com/caiosilva23">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CaioSilva23&show_icons=true&theme=github_dark&include_all_commits=false&count_private=false"/>
-    
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSilva23&layout=compact&langs_count=10000&theme=github_dark "/>
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="caio-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
