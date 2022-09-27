@@ -1,6 +1,6 @@
 ### Olá! Sou Caio,
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas 🚀
-- 🌱 Desenvolvedor Python, com ênfase em back-end
+- 🌱 Desenvolvedor back-end Python
 - 📫 Contate-me no email: caio_ceac23@hotmail.com
 
 
