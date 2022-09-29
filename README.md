@@ -1,14 +1,14 @@
 ### Olá! Sou Caio,
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas 🚀
-- 🌱 Desenvolvedor back-end Python
+- 🌱 Back-End Developer
 - 📫 Contate-me no email: caio_ceac23@hotmail.com
 
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=caiosilva23&show_icons=true&theme=github_dark&line_height=20">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilva23&theme=github_dark&layout=default&count_private=true&langs_count=6">
-</p>
-<div align="center">
+<div>
+  <a href="https://github.com/caiosilva23">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiosilva23&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiosilva23&layout=compact&langs_count=7&theme=onedark"/>
+</div>
 
   
   <div style="display: inline_block"><br>
