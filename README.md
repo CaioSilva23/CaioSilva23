@@ -2,6 +2,7 @@
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
 - 🌱 Python Developer
 - 📫 Contate-me no email: caio_ceac23@hotmail.com
+- 📹 Conteúdo de programação no youtube: [[caiosilvadev]](https://www.youtube.com/@caiosilvadev)
 
 
 <div>
