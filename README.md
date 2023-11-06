@@ -1,6 +1,6 @@
 ### Olá! Sou Caio,
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
-- 🌱 Python Developer
+- 🌱 Full Stack Developer - Python | Django | PostgreSQL | JavaScript | React JS
 - 📫 Contate-me no email: caio_ceac23@hotmail.com
 - 📹 Conteúdo de programação no youtube: [[caiosilvadev]](https://www.youtube.com/@caiosilvadev)
 
