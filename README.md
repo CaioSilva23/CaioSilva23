@@ -1,6 +1,6 @@
 ### Olá! Sou Caio,
-
-## PERFIL DESCONTINUADO - ME SIGA NO: [CAIO.BATISTA](https://github.com/caiocslvb/caiocslvb)
+<!--## PERFIL DESCONTINUADO - ME SIGA NO: [CAIO.BATISTA](https://github.com/caiocslvb/caiocslvb)
+ -->
 
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
 - 🌱 Full Stack Developer - Python | Django | PostgreSQL | JavaScript | React JS
