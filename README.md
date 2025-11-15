@@ -3,7 +3,8 @@
  -->
 
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
-- 🌱 Full Stack Developer - Python | Django | PostgreSQL | JavaScript | React JS
+- 🔭 Pós graduando em Engenharia de Software - MBA USP 🚀
+- 🌱 Software Developer Sênior ( Frontend | Backend | Python, FastAPI, Django, TypeScript, ReactJS, Microservices, AWS)
 - 📫 Contate-me no email: caio.batista97@outlook.com
 - 📹 Conteúdo de programação no youtube: [[caiosilvadev]](https://www.youtube.com/@caiosilvadev)
 
