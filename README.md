@@ -3,7 +3,7 @@
  -->
 
 - 🔭 Graduado em Análise e Desenvolvimento de Sistemas 🚀
-- 🔭 Pós graduando em Engenharia de Software - MBA USP 🚀
+- 🔭 Pós graduado (MBA) em Engenharia de Software - USP 🚀
 - 🌱 Software Developer Sênior ( Frontend | Backend | Python, FastAPI, Django, TypeScript, ReactJS, Microservices, AWS)
 - 📫 Contate-me no email: caio.batista97@outlook.com
 - 📹 Conteúdo de programação no youtube: [[caiosilvadev]](https://www.youtube.com/@caiosilvadev)
